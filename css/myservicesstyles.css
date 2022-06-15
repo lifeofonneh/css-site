@@ -1,0 +1,42 @@
+body{
+  background-color: #a8ddcf;
+  text-align: center;
+}
+.list{
+  text-align: left;
+}
+.dynamic{
+  text-align: left;
+  position: relative;
+  left:2rem;
+}
+hr{border: dotted;6px;
+  color:#40514E;
+  border-bottom: none;
+  width: 4%;
+
+}
+
+  .btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    text-shadow: 0px 1px 0px #f0e7f0;
+    font-family: Arial;
+    color: #e4e7f5;
+    font-size: 19px;
+    background: #11999E;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+
+  .btn:hover {
+    background: #3999d4;
+    text-decoration: none;
+  }
+
+  .copyright{
+    color: #eaf6f6;
+    font-size: 0.95rem;
+    padding: 20px 0px;
+  }
